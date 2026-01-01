@@ -1,79 +1,86 @@
-# Senior Software Engineer & Intelligent Automation Roadmap
+# Strategic Specialization Roadmap: AI, Cloud & Intelligent Automation
 
-This repository outlines my strategic learning path to evolve from a Senior Frontend Developer into a Specialist in **Intelligent Automation, Cloud Infrastructure, and AI Integration**.
+This roadmap outlines my professional evolution from a Senior Frontend Developer to an **Intelligent Automation & Cloud Specialist**. It focuses on Python-driven data extraction, AI integration, and scalable infrastructure.
 
-## 🎯 Objectives
-- Master **Python** for advanced data extraction and processing.
-- Integrate **AI & LLMs** into web crawling workflows.
-- Achieve **AWS Developer** certification.
-- Expand into **Mobile Development** (React Native).
-- Solidify **Frontend Architecture** at scale.
+## 🎯 High-Level Goals
+- Transition from Basic Python to **Advanced Data Engineering**.
+- Implement **AI-powered Web Crawling** (LangChain + Scrapy).
+- Master **Cloud Infrastructure** (AWS) for scalable deployments.
+- Validate **Frontend Architecture** and **Mobile (React Native)** expertise.
 
 ---
 
-## 🚀 Phase 1: Python & Intelligent Crawling (High Priority)
-*Focus: Transitioning from traditional automation to AI-driven data extraction.*
+## 🚀 Phase 1: Advanced Python & Intelligent Crawling
+*Target: Move beyond scripts to production-ready data extraction.*
 
-- **Python Specialization**: [Python for Everybody (University of Michigan)](https://www.coursera.org/specializations/python)
-    - Key focus: *Using Python to Access Web Data*.
-- **Modern Scraping**: [Web Scraping with Scrapy and Python](https://www.coursera.org/projects/web-scraping-scrapy-python)
-- **AI Integration**: [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
-    - Goal: Create agents that parse and analyze crawled data in real-time.
+1.  **Intermediate Python (Data Processing)**:
+    - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) (Univ. of Michigan)
+    - *Note: Specifically Course 3 "Data Collection and Processing" to master APIs and JSON.*
+2.  **Professional Web Scraping**:
+    - [Web Scraping with Scrapy and Python (Guided Project)](https://www.coursera.org/learn/packt-web-scraping-tutorial-with-scrapy-and-python-for-beginners-0edsw)
+    - *Note: Validated URL. Although it says "Beginners", it's the standard for mastering the Scrapy framework on Coursera.*
+3.  **AI & LLM Integration**:
+    - [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
+    - *Focus: Building agents to parse and structure unstructured web data.*
 
-## ☁️ Phase 2: Cloud Computing (AWS)
-*Focus: Scaling applications and managing serverless infrastructure.*
+## ☁️ Phase 2: Cloud Infrastructure (AWS)
+*Target: Professional certification for deploying automation at scale.*
 
-- **Certification**: [AWS Certified Developer - Associate Specialization](https://www.coursera.org/specializations/aws-certified-developer-associate)
-- **Key Skills**: AWS Lambda, DynamoDB, S3, and CI/CD for cloud-native apps.
+- **Certification Path**: [AWS Certified Developer - Associate](https://www.coursera.org/specializations/aws-certified-developer-associate)
+- **Key Services**: Lambda (for crawlers), DynamoDB, S3, and AWS Amplify.
 
 ## 📱 Phase 3: Mobile Development
-*Focus: Leveraging React expertise for cross-platform mobile apps.*
+*Target: Leveraging 5+ years of React experience for the mobile ecosystem.*
 
-- **Certification**: [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native-specialization)
-- **Key Skills**: Native components, mobile performance, and App Store deployment.
+- **Professional Certificate**: [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native-specialization)
+- **Skills**: Native APIs, Expo, and Cross-platform optimization.
 
 ## 🏛️ Phase 4: Frontend Architecture & Leadership
-*Focus: Validating 5+ years of experience as a Frontend Architect.*
+*Target: Validating Senior/Staff Engineer competencies.*
 
-- **Certification**: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-- **Key Skills**: Advanced React patterns, testing (Jest), and optimization.
+- **Professional Certificate**: [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- **Focus**: Advanced React, Testing (Jest/RTL), and Software Architecture patterns.
 
 ---
 
-## 🛠 Tech Stack Summary
-- **Languages**: TypeScript, Python, JavaScript.
-- **Frameworks**: React, React Native, Scrapy, LangChain.
-- **Infra/DevOps**: AWS, Docker, Kubernetes, GitHub Actions.
+## 🛠 Tech Stack Focus
+- **Languages**: Python (Advanced), TypeScript, JavaScript.
+- **AI/Data**: LangChain, Scrapy, BeautifulSoup, OpenAI API.
+- **Cloud/DevOps**: AWS, Docker, Kubernetes, GitHub Actions.
+- **Mobile**: React Native.
+
+---
+*Created by [Raúl Marchán](https://linkedin.com/in/raul-marchan) - 2026 Roadmap*
 
 ---
 
 ## 🚦 Roadmap Progress
 
-**Progress**: `6%`
-`[█░░░░░░░░░░░░░░░░░░░]`
+**Progress**: `0%`
+`[░░░░░░░░░░░░░░░░░░░░]`
 
-### 🟢 Phase 1: Python & Intelligent Crawling
+### 🟢 Phase 1 Status: Advanced Python & Intelligent Crawling
 
-- [x] **Course**: [Python for Everybody](https://www.coursera.org/specializations/python)
-- [ ] **Course**: [Web Scraping with Scrapy and Python](https://www.coursera.org/projects/web-scraping-scrapy-python)
+- [ ] **Course**: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [ ] **Course**: [Web Scraping with Scrapy and Python (Guided Project)](https://www.coursera.org/learn/packt-web-scraping-tutorial-with-scrapy-and-python-for-beginners-0edsw)
 - [ ] **Course**: [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
 - [ ] *Goal*: Create agents that parse and analyze crawled data in real-time.
 
-### ☁️ Phase 2: Cloud Computing (AWS)
+### ☁️ Phase 2 Status: Cloud Infrastructure (AWS)
 
 - [ ] **Certification**: [AWS Certified Developer - Associate](https://www.coursera.org/specializations/aws-certified-developer-associate)
 - [ ] *Skill*: AWS Lambda & Serverless
 - [ ] *Skill*: DynamoDB & S3
 - [ ] *Skill*: CI/CD for cloud-native apps
 
-### 📱 Phase 3: Mobile Development
+### 📱 Phase 3 Status: Mobile Development
 
 - [ ] **Certification**: [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native-specialization)
 - [ ] *Skill*: Native components & styling
 - [ ] *Skill*: Mobile performance optimization
 - [ ] *Skill*: App Store deployment
 
-### 🏛️ Phase 4: Frontend Architecture & Leadership
+### 🏛️ Phase 4 Status: Frontend Architecture & Leadership
 
 - [ ] **Certification**: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] *Skill*: Advanced React patterns

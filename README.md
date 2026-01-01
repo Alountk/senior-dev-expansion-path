@@ -49,28 +49,32 @@ This repository outlines my strategic learning path to evolve from a Senior Fron
 
 ## 🚦 Roadmap Progress
 
-**Progress**: `0%`
-`[░░░░░░░░░░░░░░░░░░░░]`
+**Progress**: `6%`
+`[█░░░░░░░░░░░░░░░░░░░]`
 
 ### 🟢 Phase 1: Python & Intelligent Crawling
-- [ ] **Course**: [Python for Everybody](https://www.coursera.org/specializations/python)
+
+- [x] **Course**: [Python for Everybody](https://www.coursera.org/specializations/python)
 - [ ] **Course**: [Web Scraping with Scrapy and Python](https://www.coursera.org/projects/web-scraping-scrapy-python)
 - [ ] **Course**: [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
 - [ ] *Goal*: Create agents that parse and analyze crawled data in real-time.
 
 ### ☁️ Phase 2: Cloud Computing (AWS)
+
 - [ ] **Certification**: [AWS Certified Developer - Associate](https://www.coursera.org/specializations/aws-certified-developer-associate)
 - [ ] *Skill*: AWS Lambda & Serverless
 - [ ] *Skill*: DynamoDB & S3
 - [ ] *Skill*: CI/CD for cloud-native apps
 
 ### 📱 Phase 3: Mobile Development
+
 - [ ] **Certification**: [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native-specialization)
 - [ ] *Skill*: Native components & styling
 - [ ] *Skill*: Mobile performance optimization
 - [ ] *Skill*: App Store deployment
 
 ### 🏛️ Phase 4: Frontend Architecture & Leadership
+
 - [ ] **Certification**: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] *Skill*: Advanced React patterns
 - [ ] *Skill*: Testing (Jest/RTL)

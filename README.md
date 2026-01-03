@@ -61,7 +61,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 
 ### 🟢 Phase 1 Status: Advanced Python & Intelligent Crawling
 
-- [ ] **Course**: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [ ] **Course**: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) [Github](https://github.com/Alountk/specialization-python-3-programming)
 - [ ] **Course**: [Web Scraping with Scrapy and Python (Guided Project)](https://www.coursera.org/learn/packt-web-scraping-tutorial-with-scrapy-and-python-for-beginners-0edsw)
 - [ ] **Course**: [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
 - [ ] *Goal*: Create agents that parse and analyze crawled data in real-time.

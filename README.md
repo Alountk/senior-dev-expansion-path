@@ -83,7 +83,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 
 ### 🏛️ Phase 4 Status: Frontend Architecture & Leadership
 
-- [ ] **Course**: [Advanced React](https://www.coursera.org/learn/advanced-react) *(In Progress)*
+- [ ] **Course**: [Advanced React](https://www.coursera.org/learn/advanced-react) [Github](https://github.com/Alountk/meta-advanced-react-lab) *(In Progress)*
 - [ ] **Certification**: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] *Skill*: Advanced React patterns
 - [ ] *Skill*: Testing (Jest/RTL)

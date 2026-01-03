@@ -14,7 +14,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 *Target: Move beyond scripts to production-ready data extraction.*
 
 1.  **Intermediate Python (Data Processing)**:
-    - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) (Univ. of Michigan)
+    - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) (Univ. of Michigan) - [Github](https://github.com/Alountk/specialization-python-3-programming)
     - *Note: Specifically Course 3 "Data Collection and Processing" to master APIs and JSON.*
 2.  **Professional Web Scraping**:
     - [Web Scraping with Scrapy and Python (Guided Project)](https://www.coursera.org/learn/packt-web-scraping-tutorial-with-scrapy-and-python-for-beginners-0edsw)
@@ -38,7 +38,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 ## 🏛️ Phase 4: Frontend Architecture & Leadership
 *Target: Validating Senior/Staff Engineer competencies.*
 
-- **Professional Certificate**: [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- **Professional Certificate**: [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) - [Github](https://github.com/Alountk/meta-advanced-react-lab)
     - **Active Course**: [Advanced React](https://www.coursera.org/learn/advanced-react) *(Doing in parallel with Phase 1)*
 - **Focus**: Advanced React, Testing (Jest/RTL), and Software Architecture patterns.
 
@@ -62,7 +62,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 
 ### 🟢 Phase 1 Status: Advanced Python & Intelligent Crawling
 
-- [ ] **Course**: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) [Github](https://github.com/Alountk/specialization-python-3-programming)
+- [ ] **Course**: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - [Github](https://github.com/Alountk/specialization-python-3-programming)
 - [ ] **Course**: [Web Scraping with Scrapy and Python (Guided Project)](https://www.coursera.org/learn/packt-web-scraping-tutorial-with-scrapy-and-python-for-beginners-0edsw)
 - [ ] **Course**: [Generative AI with LangChain](https://www.coursera.org/learn/generative-ai-with-langchain)
 - [ ] *Goal*: Create agents that parse and analyze crawled data in real-time.
@@ -83,7 +83,7 @@ This roadmap outlines my professional evolution from a Senior Frontend Developer
 
 ### 🏛️ Phase 4 Status: Frontend Architecture & Leadership
 
-- [ ] **Course**: [Advanced React](https://www.coursera.org/learn/advanced-react) [Github](https://github.com/Alountk/meta-advanced-react-lab) *(In Progress)*
+- [ ] **Course**: [Advanced React](https://www.coursera.org/learn/advanced-react) - [Github](https://github.com/Alountk/meta-advanced-react-lab) *(In Progress)*
 - [ ] **Certification**: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] *Skill*: Advanced React patterns
 - [ ] *Skill*: Testing (Jest/RTL)
